@@ -9,6 +9,7 @@
 ## Apresentação | Slides
 
 ### Pitch
+https://www.canva.com/design/DAG0CkFN4i4/HakFaTlx7Ht4moQQcMzpMA/view?utm_content=DAG0CkFN4i4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb4df5cd1c4
 
 ### Apresentação do Projeto
 https://www.canva.com/design/DAG0Bmzs1XU/-g5BgSSIFtXOcJcpMHcpsw/edit?utm_content=DAG0Bmzs1XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

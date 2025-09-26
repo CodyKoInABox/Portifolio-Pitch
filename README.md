@@ -1,7 +1,6 @@
 # Pitch do Portifolio Engenharia de Software
 
-- **Projeto:** Leitor de Editais
-- **Descrição:** Interpretação de editais farmacêuticos oncológicos com Inteligência Artificial
+- **Projeto:** Agilis Licitações | Leitor de editais com Inteligência Artificial
 - **Aluno:** Maruan Biasi El Achkar
 
 --------------------
